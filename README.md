@@ -15,3 +15,7 @@ Using a sankey chart we show the emergence of China and India as major consumers
 We will go into more detail by making an evolution of the Sankey chart, but showing the data for countries without aggregation.
 
 ![image](https://github.com/chus73/global_energy_consumption/assets/32896958/a1094b27-20d1-4ae1-a6f0-9dde9d1a5ed1)
+
+### Tableau public url
+
+https://public.tableau.com/views/GlobalEnergyConsumption_16877223471630/GlobalEnergy?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
